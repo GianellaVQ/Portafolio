@@ -411,7 +411,7 @@ body {
   padding: 60px 0 30px; }
 
 .section.contacts-section {
-  background-image: url("/media/projects/Fondo-contacto.jpg");
+  /* background-image: url("/media/projects/Fondo-contacto.jpg"); */
   /* background-color: #21D1DC; */
   border-top: 1px solid #e5e5e5; }
 
